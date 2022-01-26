@@ -1,0 +1,10 @@
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\radio\radio\obj\Debug\ResolveAssemblyReference.cache
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\radio\radio\obj\Debug\radio.Form1.resources
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\radio\radio\obj\Debug\radio.Resources.resources
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\radio\radio\obj\Debug\radio.vbproj.GenerateResource.Cache
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\radio\radio\bin\Debug\radio.exe
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\radio\radio\bin\Debug\radio.pdb
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\radio\radio\bin\Debug\radio.xml
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\radio\radio\obj\Debug\radio.exe
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\radio\radio\obj\Debug\radio.xml
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\radio\radio\obj\Debug\radio.pdb
