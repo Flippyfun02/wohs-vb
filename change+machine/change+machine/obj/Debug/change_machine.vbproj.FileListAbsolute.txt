@@ -1,0 +1,10 @@
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\change+machine\change+machine\obj\Debug\ResolveAssemblyReference.cache
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\change+machine\change+machine\obj\Debug\change_machine.Form1.resources
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\change+machine\change+machine\obj\Debug\change_machine.Resources.resources
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\change+machine\change+machine\obj\Debug\change_machine.vbproj.GenerateResource.Cache
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\change+machine\change+machine\bin\Debug\change_machine.exe
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\change+machine\change+machine\bin\Debug\change_machine.pdb
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\change+machine\change+machine\bin\Debug\change_machine.xml
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\change+machine\change+machine\obj\Debug\change_machine.exe
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\change+machine\change+machine\obj\Debug\change_machine.xml
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\change+machine\change+machine\obj\Debug\change_machine.pdb
