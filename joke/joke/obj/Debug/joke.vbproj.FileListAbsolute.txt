@@ -1,0 +1,10 @@
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\joke\joke\bin\Debug\joke.exe
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\joke\joke\bin\Debug\joke.pdb
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\joke\joke\bin\Debug\joke.xml
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\joke\joke\obj\Debug\ResolveAssemblyReference.cache
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\joke\joke\obj\Debug\joke.Form1.resources
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\joke\joke\obj\Debug\joke.Resources.resources
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\joke\joke\obj\Debug\joke.vbproj.GenerateResource.Cache
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\joke\joke\obj\Debug\joke.exe
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\joke\joke\obj\Debug\joke.xml
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\joke\joke\obj\Debug\joke.pdb
