@@ -1,0 +1,10 @@
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\calculator\calculator\bin\Debug\calculator.exe
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\calculator\calculator\bin\Debug\calculator.pdb
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\calculator\calculator\bin\Debug\calculator.xml
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\calculator\calculator\obj\Debug\ResolveAssemblyReference.cache
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\calculator\calculator\obj\Debug\calculator.Resources.resources
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\calculator\calculator\obj\Debug\calculator.vbproj.GenerateResource.Cache
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\calculator\calculator\obj\Debug\calculator.exe
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\calculator\calculator\obj\Debug\calculator.xml
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\calculator\calculator\obj\Debug\calculator.pdb
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\calculator\calculator\obj\Debug\calculator.Form1.resources
