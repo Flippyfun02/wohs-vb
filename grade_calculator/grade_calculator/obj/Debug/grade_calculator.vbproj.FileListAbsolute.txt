@@ -1,0 +1,20 @@
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\grade_calculator\grade_calculator\bin\Debug\grade_calculator.exe
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\grade_calculator\grade_calculator\bin\Debug\grade_calculator.pdb
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\grade_calculator\grade_calculator\bin\Debug\grade_calculator.xml
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\grade_calculator\grade_calculator\obj\Debug\ResolveAssemblyReference.cache
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\grade_calculator\grade_calculator\obj\Debug\grade_calculator.Form1.resources
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\grade_calculator\grade_calculator\obj\Debug\grade_calculator.Resources.resources
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\grade_calculator\grade_calculator\obj\Debug\grade_calculator.vbproj.GenerateResource.Cache
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\grade_calculator\grade_calculator\obj\Debug\grade_calculator.exe
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\grade_calculator\grade_calculator\obj\Debug\grade_calculator.xml
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\grade_calculator\grade_calculator\obj\Debug\grade_calculator.pdb
+\\wohsvmstudents\2024\abinan24\My Documents\Visual Studio 2008\Projects\grade_calculator\grade_calculator\obj\Debug\grade_calculator.exe
+\\wohsvmstudents\2024\abinan24\My Documents\Visual Studio 2008\Projects\grade_calculator\grade_calculator\obj\Debug\grade_calculator.xml
+\\wohsvmstudents\2024\abinan24\My Documents\Visual Studio 2008\Projects\grade_calculator\grade_calculator\obj\Debug\grade_calculator.pdb
+\\wohsvmstudents\2024\abinan24\My Documents\Visual Studio 2008\Projects\grade_calculator\grade_calculator\bin\Debug\grade_calculator.exe
+\\wohsvmstudents\2024\abinan24\My Documents\Visual Studio 2008\Projects\grade_calculator\grade_calculator\bin\Debug\grade_calculator.pdb
+\\wohsvmstudents\2024\abinan24\My Documents\Visual Studio 2008\Projects\grade_calculator\grade_calculator\bin\Debug\grade_calculator.xml
+\\wohsvmstudents\2024\abinan24\My Documents\Visual Studio 2008\Projects\grade_calculator\grade_calculator\obj\Debug\ResolveAssemblyReference.cache
+\\wohsvmstudents\2024\abinan24\My Documents\Visual Studio 2008\Projects\grade_calculator\grade_calculator\obj\Debug\grade_calculator.Form1.resources
+\\wohsvmstudents\2024\abinan24\My Documents\Visual Studio 2008\Projects\grade_calculator\grade_calculator\obj\Debug\grade_calculator.Resources.resources
+\\wohsvmstudents\2024\abinan24\My Documents\Visual Studio 2008\Projects\grade_calculator\grade_calculator\obj\Debug\grade_calculator.vbproj.GenerateResource.Cache
