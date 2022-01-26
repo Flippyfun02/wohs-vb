@@ -1,0 +1,13 @@
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\whack_a_mole\whack_a_mole\bin\Debug\whack_a_mole.exe
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\whack_a_mole\whack_a_mole\bin\Debug\whack_a_mole.pdb
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\whack_a_mole\whack_a_mole\bin\Debug\whack_a_mole.xml
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\whack_a_mole\whack_a_mole\obj\Debug\ResolveAssemblyReference.cache
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\whack_a_mole\whack_a_mole\obj\Debug\whack_a_mole.Form1.resources
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\whack_a_mole\whack_a_mole\obj\Debug\whack_a_mole.Resources.resources
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\whack_a_mole\whack_a_mole\obj\Debug\whack_a_mole.vbproj.GenerateResource.Cache
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\whack_a_mole\whack_a_mole\obj\Debug\whack_a_mole.exe
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\whack_a_mole\whack_a_mole\obj\Debug\whack_a_mole.xml
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\whack_a_mole\whack_a_mole\obj\Debug\whack_a_mole.pdb
+\\wohsvmstudents\2024\abinan24\My Documents\Visual Studio 2008\Projects\whack_a_mole\whack_a_mole\obj\Debug\whack_a_mole.exe
+\\wohsvmstudents\2024\abinan24\My Documents\Visual Studio 2008\Projects\whack_a_mole\whack_a_mole\obj\Debug\whack_a_mole.xml
+\\wohsvmstudents\2024\abinan24\My Documents\Visual Studio 2008\Projects\whack_a_mole\whack_a_mole\obj\Debug\whack_a_mole.pdb
