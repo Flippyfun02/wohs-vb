@@ -1,0 +1,10 @@
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\click_race\click_race\bin\Debug\click_race.exe
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\click_race\click_race\bin\Debug\click_race.pdb
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\click_race\click_race\bin\Debug\click_race.xml
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\click_race\click_race\obj\Debug\ResolveAssemblyReference.cache
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\click_race\click_race\obj\Debug\click_race.Form1.resources
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\click_race\click_race\obj\Debug\click_race.Resources.resources
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\click_race\click_race\obj\Debug\click_race.vbproj.GenerateResource.Cache
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\click_race\click_race\obj\Debug\click_race.exe
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\click_race\click_race\obj\Debug\click_race.xml
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\click_race\click_race\obj\Debug\click_race.pdb
