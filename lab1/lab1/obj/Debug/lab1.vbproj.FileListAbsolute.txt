@@ -1,0 +1,10 @@
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\lab1\lab1\bin\Debug\lab1.exe
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\lab1\lab1\bin\Debug\lab1.pdb
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\lab1\lab1\bin\Debug\lab1.xml
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\lab1\lab1\obj\Debug\ResolveAssemblyReference.cache
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\lab1\lab1\obj\Debug\lab1.Resources.resources
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\lab1\lab1\obj\Debug\lab1.vbproj.GenerateResource.Cache
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\lab1\lab1\obj\Debug\lab1.exe
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\lab1\lab1\obj\Debug\lab1.xml
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\lab1\lab1\obj\Debug\lab1.pdb
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\lab1\lab1\obj\Debug\lab1.Form1.resources
