@@ -1,0 +1,10 @@
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\pizza_calculator\pizza_calculator\bin\Debug\pizza_calculator.exe
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\pizza_calculator\pizza_calculator\bin\Debug\pizza_calculator.pdb
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\pizza_calculator\pizza_calculator\bin\Debug\pizza_calculator.xml
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\pizza_calculator\pizza_calculator\obj\Debug\ResolveAssemblyReference.cache
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\pizza_calculator\pizza_calculator\obj\Debug\pizza_calculator.Form1.resources
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\pizza_calculator\pizza_calculator\obj\Debug\pizza_calculator.Resources.resources
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\pizza_calculator\pizza_calculator\obj\Debug\pizza_calculator.vbproj.GenerateResource.Cache
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\pizza_calculator\pizza_calculator\obj\Debug\pizza_calculator.exe
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\pizza_calculator\pizza_calculator\obj\Debug\pizza_calculator.xml
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\pizza_calculator\pizza_calculator\obj\Debug\pizza_calculator.pdb

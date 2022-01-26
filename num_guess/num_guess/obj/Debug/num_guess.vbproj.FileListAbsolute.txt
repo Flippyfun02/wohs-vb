@@ -1,0 +1,10 @@
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\num_guess\num_guess\bin\Debug\num_guess.exe
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\num_guess\num_guess\bin\Debug\num_guess.pdb
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\num_guess\num_guess\bin\Debug\num_guess.xml
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\num_guess\num_guess\obj\Debug\ResolveAssemblyReference.cache
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\num_guess\num_guess\obj\Debug\num_guess.Resources.resources
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\num_guess\num_guess\obj\Debug\num_guess.vbproj.GenerateResource.Cache
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\num_guess\num_guess\obj\Debug\num_guess.exe
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\num_guess\num_guess\obj\Debug\num_guess.xml
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\num_guess\num_guess\obj\Debug\num_guess.pdb
+\\wohsvmstudents\2024\ABinan24\Documents\Visual Studio 2008\Projects\num_guess\num_guess\obj\Debug\num_guess.frmMain.resources
