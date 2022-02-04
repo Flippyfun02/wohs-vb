@@ -1,0 +1,10 @@
+C:\Users\student\Documents\Visual Studio 2008\Projects\car_race\car_race\bin\Debug\car_race.exe
+C:\Users\student\Documents\Visual Studio 2008\Projects\car_race\car_race\bin\Debug\car_race.pdb
+C:\Users\student\Documents\Visual Studio 2008\Projects\car_race\car_race\bin\Debug\car_race.xml
+C:\Users\student\Documents\Visual Studio 2008\Projects\car_race\car_race\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2008\Projects\car_race\car_race\obj\Debug\car_race.Form1.resources
+C:\Users\student\Documents\Visual Studio 2008\Projects\car_race\car_race\obj\Debug\car_race.Resources.resources
+C:\Users\student\Documents\Visual Studio 2008\Projects\car_race\car_race\obj\Debug\car_race.vbproj.GenerateResource.Cache
+C:\Users\student\Documents\Visual Studio 2008\Projects\car_race\car_race\obj\Debug\car_race.exe
+C:\Users\student\Documents\Visual Studio 2008\Projects\car_race\car_race\obj\Debug\car_race.xml
+C:\Users\student\Documents\Visual Studio 2008\Projects\car_race\car_race\obj\Debug\car_race.pdb
